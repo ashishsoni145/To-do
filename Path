@@ -1,0 +1,8 @@
+📂 app/src/main/
+ ├── 📂 res/layout/
+ │    ├── activity_main.xml
+ │    ├── list_item.xml
+ ├── 📂 java/com/example/todolist/
+ │    ├── MainActivity.java
+ │    ├── TaskAdapter.java
+ │    ├── TaskModel.java
